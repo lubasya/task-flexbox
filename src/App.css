@@ -19,7 +19,7 @@ div {
     border-radius: 50%;
 }
 
-div:nth-child(2n) {
+div:nth-child(2) {
     margin-top: 100px;
 }
 
